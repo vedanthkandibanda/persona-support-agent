@@ -1,0 +1,9 @@
+User Management
+
+Administrators can:
+
+- Create users
+- Disable users
+- Assign roles
+
+Role changes require administrator permissions.

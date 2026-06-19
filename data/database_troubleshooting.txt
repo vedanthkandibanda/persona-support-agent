@@ -1,0 +1,9 @@
+Database Troubleshooting
+
+Connection failures may occur due to:
+
+- Incorrect credentials
+- Network issues
+- Expired certificates
+
+Verify logs before reconnecting.

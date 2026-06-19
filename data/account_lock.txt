@@ -1,0 +1,7 @@
+Account Lock Guide
+
+Accounts are locked after 5 failed login attempts.
+
+Wait 30 minutes or contact support.
+
+Administrators may unlock accounts manually.

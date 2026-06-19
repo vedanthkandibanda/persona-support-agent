@@ -1,0 +1,9 @@
+Billing Policy
+
+Billing occurs monthly.
+
+Refund requests must be submitted within 7 days.
+
+Duplicate charges should be reviewed by support.
+
+Billing disputes require human review.

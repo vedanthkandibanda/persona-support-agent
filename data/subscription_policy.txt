@@ -1,0 +1,5 @@
+Subscription Policy
+
+Users may upgrade or downgrade plans.
+
+Changes become effective during the next billing cycle.

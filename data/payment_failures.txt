@@ -1,0 +1,9 @@
+Payment Failure Guide
+
+Common causes:
+
+- Expired card
+- Insufficient balance
+- Network interruption
+
+Retry after verifying payment details.

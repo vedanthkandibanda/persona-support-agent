@@ -1,0 +1,14 @@
+API Authentication Guide
+
+All API requests require:
+
+Authorization: Bearer <token>
+
+Common Errors:
+
+401 Unauthorized
+- Invalid token
+- Expired token
+
+403 Forbidden
+- Insufficient permissions
